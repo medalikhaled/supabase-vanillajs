@@ -1,0 +1,14 @@
+{
+  "name": "supaship-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dali khaled",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
